@@ -45,9 +45,13 @@
 // var Age = prompt('Enter your Age', '20')
 
 
-// if ( Age >= 20 && Gender.toLowerCase() == "female"  ){
+// if ( Age > 16 && Gender.toLowerCase() == "female"  ){
 //     document.write("You'r allowed to attend this class")
 // }
 // else{ document.write("You'r not allowed to attend this class")};
+
+// ========task5==========
+
+
 
 
