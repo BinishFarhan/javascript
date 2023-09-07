@@ -26,6 +26,5 @@
 
 //login-example
 
-var name = prompt('Enter your name')
+var name = prompt ('Enter your name')
 var name = prompt ('Obtained marks in SSt')
-var 
