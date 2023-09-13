@@ -58,6 +58,7 @@
 // console.log(num1)
 
 // 1 -0 +2 + 0
-var a = 2, b = 1
-var result = --a - --b + ++b + b--
-alert(result);
+// var a = 2, b = 1
+// var result = --a - --b + ++b + b--
+// alert(result);
+
